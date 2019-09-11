@@ -1,0 +1,20 @@
+{
+  "name": "dragonball",
+  "version": "1.0.0",
+  "description": "Javascript Momory Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Dragon",
+    "Ball",
+    "Memory",
+    "Game"
+  ],
+  "author": "Kieff",
+  "license": "MIT",
+  "dependencies": {
+    "bundle-js": "^1.0.3"
+  }
+}
